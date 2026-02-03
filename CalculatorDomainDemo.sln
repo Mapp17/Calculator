@@ -1,8 +1,10 @@
-Microsoft Visual Studio Solution File, Format Version 12.00
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorDomainDemo", "CalculatorDomainDemo.csproj", "{852C1749-2F69-0687-911B-921F737B07B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorDomain", "CalculatorDomain\CalculatorDomain.csproj", "{26C3E2C9-EA6C-4CA9-9097-30CF7287FC8A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,6 +16,10 @@ Global
 		{852C1749-2F69-0687-911B-921F737B07B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{852C1749-2F69-0687-911B-921F737B07B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{852C1749-2F69-0687-911B-921F737B07B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26C3E2C9-EA6C-4CA9-9097-30CF7287FC8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26C3E2C9-EA6C-4CA9-9097-30CF7287FC8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26C3E2C9-EA6C-4CA9-9097-30CF7287FC8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26C3E2C9-EA6C-4CA9-9097-30CF7287FC8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

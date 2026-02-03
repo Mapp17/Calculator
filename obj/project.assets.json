@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Skye\\.nuget\\packages\\": {}
+    "C:\\Users\\pulan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Skye\\Desktop\\CalculatorDomainDemo\\CalculatorDomainDemo.csproj",
+      "projectUniqueName": "C:\\Users\\pulan\\Desktop\\Bitcube\\Calculator\\Calculator\\CalculatorDomainDemo.csproj",
       "projectName": "CalculatorDomainDemo",
-      "projectPath": "C:\\Users\\Skye\\Desktop\\CalculatorDomainDemo\\CalculatorDomainDemo.csproj",
-      "packagesPath": "C:\\Users\\Skye\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Skye\\Desktop\\CalculatorDomainDemo\\obj\\",
+      "projectPath": "C:\\Users\\pulan\\Desktop\\Bitcube\\Calculator\\Calculator\\CalculatorDomainDemo.csproj",
+      "packagesPath": "C:\\Users\\pulan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pulan\\Desktop\\Bitcube\\Calculator\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Skye\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\pulan\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
