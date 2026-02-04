@@ -1,5 +1,6 @@
 using System.Reflection;
 using CalculatorDomain.Logic;
+using Microsoft.AspNetCore.Mvc;
 using CalculatorDomain.Persistence;
 using CalculatorDomainDemo.Persistence;
 
@@ -33,7 +34,7 @@ app.MapControllers();
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-**/
+*/
 //app.UseHttpsRedirection();
 
 
