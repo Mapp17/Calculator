@@ -10,3 +10,15 @@ C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\CalculatorDomain\obj\Debug\
 C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\CalculatorDomain\obj\Debug\net8.0\refint\CalculatorDomain.dll
 C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\CalculatorDomain\obj\Debug\net8.0\CalculatorDomain.pdb
 C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\CalculatorDomain\obj\Debug\net8.0\ref\CalculatorDomain.dll
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\CalculatorDomain\bin\Debug\net8.0\CalculatorDomain.deps.json
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\CalculatorDomain\bin\Debug\net8.0\CalculatorDomain.dll
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\CalculatorDomain\bin\Debug\net8.0\CalculatorDomain.pdb
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\CalculatorDomain\obj\Debug\net8.0\CalculatorDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\CalculatorDomain\obj\Debug\net8.0\CalculatorDomain.AssemblyInfoInputs.cache
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\CalculatorDomain\obj\Debug\net8.0\CalculatorDomain.AssemblyInfo.cs
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\CalculatorDomain\obj\Debug\net8.0\CalculatorDomain.csproj.CoreCompileInputs.cache
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\CalculatorDomain\obj\Debug\net8.0\CalculatorDomain.sourcelink.json
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\CalculatorDomain\obj\Debug\net8.0\CalculatorDomain.dll
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\CalculatorDomain\obj\Debug\net8.0\refint\CalculatorDomain.dll
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\CalculatorDomain\obj\Debug\net8.0\CalculatorDomain.pdb
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\CalculatorDomain\obj\Debug\net8.0\ref\CalculatorDomain.dll
