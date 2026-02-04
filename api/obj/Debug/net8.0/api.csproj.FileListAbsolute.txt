@@ -1,72 +1,36 @@
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\bin\Debug\net8.0\appsettings.json
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\bin\Debug\net8.0\api.exe
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\bin\Debug\net8.0\api.deps.json
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\bin\Debug\net8.0\api.runtimeconfig.json
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\bin\Debug\net8.0\api.dll
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\bin\Debug\net8.0\api.pdb
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\bin\Debug\net8.0\CalculatorDomain.dll
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\bin\Debug\net8.0\CalculatorDomain.pdb
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\obj\Debug\net8.0\api.csproj.AssemblyReference.cache
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\obj\Debug\net8.0\api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\obj\Debug\net8.0\api.AssemblyInfoInputs.cache
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\obj\Debug\net8.0\api.AssemblyInfo.cs
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\obj\Debug\net8.0\api.csproj.CoreCompileInputs.cache
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\obj\Debug\net8.0\api.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\obj\Debug\net8.0\api.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\obj\Debug\net8.0\api.sourcelink.json
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\obj\Debug\net8.0\staticwebassets\msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\obj\Debug\net8.0\staticwebassets\msbuild.build.api.props
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.api.props
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.api.props
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\obj\Debug\net8.0\scopedcss\bundle\api.styles.css
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\obj\Debug\net8.0\api.csproj.Up2Date
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\obj\Debug\net8.0\api.dll
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\obj\Debug\net8.0\refint\api.dll
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\obj\Debug\net8.0\api.pdb
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\obj\Debug\net8.0\api.genruntimeconfig.cache
-C:\Users\pulan\Desktop\Bitcube\Calculator\Calculator\api\obj\Debug\net8.0\ref\api.dll
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\bin\Debug\net8.0\appsettings.json
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\bin\Debug\net8.0\api.exe
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\bin\Debug\net8.0\api.deps.json
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\bin\Debug\net8.0\api.runtimeconfig.json
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\bin\Debug\net8.0\api.dll
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\bin\Debug\net8.0\api.pdb
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\bin\Debug\net8.0\CalculatorDomain.dll
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\bin\Debug\net8.0\CalculatorDomain.pdb
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\obj\Debug\net8.0\api.csproj.AssemblyReference.cache
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\obj\Debug\net8.0\api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\obj\Debug\net8.0\api.AssemblyInfoInputs.cache
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\obj\Debug\net8.0\api.AssemblyInfo.cs
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\obj\Debug\net8.0\api.csproj.CoreCompileInputs.cache
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\obj\Debug\net8.0\api.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\obj\Debug\net8.0\api.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\obj\Debug\net8.0\api.sourcelink.json
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\obj\Debug\net8.0\staticwebassets\msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\obj\Debug\net8.0\staticwebassets\msbuild.build.api.props
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.api.props
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.api.props
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\obj\Debug\net8.0\scopedcss\bundle\api.styles.css
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\obj\Debug\net8.0\api.csproj.Up2Date
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\obj\Debug\net8.0\api.dll
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\obj\Debug\net8.0\refint\api.dll
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\obj\Debug\net8.0\api.pdb
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\obj\Debug\net8.0\api.genruntimeconfig.cache
-C:\Users\Training Center 1\Mapps\Assignments\Calculator\Calculator\api\obj\Debug\net8.0\ref\api.dll
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\bin\Debug\net8.0\appsettings.json
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\bin\Debug\net8.0\api.exe
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\bin\Debug\net8.0\api.deps.json
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\bin\Debug\net8.0\api.runtimeconfig.json
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\bin\Debug\net8.0\api.dll
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\bin\Debug\net8.0\api.pdb
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\bin\Debug\net8.0\CalculatorDomain.dll
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\bin\Debug\net8.0\CalculatorDomain.pdb
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\obj\Debug\net8.0\api.csproj.AssemblyReference.cache
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\obj\Debug\net8.0\api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\obj\Debug\net8.0\api.AssemblyInfoInputs.cache
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\obj\Debug\net8.0\api.AssemblyInfo.cs
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\obj\Debug\net8.0\api.csproj.CoreCompileInputs.cache
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\obj\Debug\net8.0\api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\obj\Debug\net8.0\api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\obj\Debug\net8.0\api.sourcelink.json
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\obj\Debug\net8.0\staticwebassets\msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\obj\Debug\net8.0\staticwebassets\msbuild.build.api.props
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.api.props
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.api.props
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\obj\Debug\net8.0\scopedcss\bundle\api.styles.css
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\obj\Debug\net8.0\api.csproj.Up2Date
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\obj\Debug\net8.0\api.dll
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\obj\Debug\net8.0\refint\api.dll
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\obj\Debug\net8.0\api.pdb
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\obj\Debug\net8.0\api.genruntimeconfig.cache
+C:\Users\Training Center 1\Mapps\Assignments\Calculator\calculator\api\obj\Debug\net8.0\ref\api.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Training Center 1\\Mapps\\Assignments\\Calculator\\Calculator\\CalculatorDomain\\CalculatorDomain.csproj": {}
+    "C:\\Users\\Training Center 1\\Mapps\\Assignments\\Calculator\\calculator\\CalculatorDomain\\CalculatorDomain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Training Center 1\\Mapps\\Assignments\\Calculator\\Calculator\\CalculatorDomain\\CalculatorDomain.csproj": {
+    "C:\\Users\\Training Center 1\\Mapps\\Assignments\\Calculator\\calculator\\CalculatorDomain\\CalculatorDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Training Center 1\\Mapps\\Assignments\\Calculator\\Calculator\\CalculatorDomain\\CalculatorDomain.csproj",
+        "projectUniqueName": "C:\\Users\\Training Center 1\\Mapps\\Assignments\\Calculator\\calculator\\CalculatorDomain\\CalculatorDomain.csproj",
         "projectName": "CalculatorDomain",
-        "projectPath": "C:\\Users\\Training Center 1\\Mapps\\Assignments\\Calculator\\Calculator\\CalculatorDomain\\CalculatorDomain.csproj",
+        "projectPath": "C:\\Users\\Training Center 1\\Mapps\\Assignments\\Calculator\\calculator\\CalculatorDomain\\CalculatorDomain.csproj",
         "packagesPath": "C:\\Users\\Training Center 1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Training Center 1\\Mapps\\Assignments\\Calculator\\Calculator\\CalculatorDomain\\obj\\",
+        "outputPath": "C:\\Users\\Training Center 1\\Mapps\\Assignments\\Calculator\\calculator\\CalculatorDomain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Training Center 1\\AppData\\Roaming\\NuGet\\NuGet.Config"

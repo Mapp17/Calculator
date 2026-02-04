@@ -1,10 +1,10 @@
 using CalculatorDomainDemo.Domain;  
 using CalculatorDomain.Logic;
-using Microsoft.AspNetCore.Mvc;
 using CalculatorDomainDemo;
+using Microsoft.AspNetCore.Mvc;
 
 
-namespace API.controllers
+namespace API.Controllers
 {
     [ApiController]
     [Route("api/calculations")]
@@ -25,10 +25,18 @@ namespace API.controllers
         }
 
         [HttpPost] //POST /api/calculations
-        public async Task<IActionResult> Calculate([FromBody]CalculationRequest request)
+        public async Task<IActionResult> Calculate([FromBody]CreateCalculationDto dto)
         {
-            var result = await _calculator.CalculateAsync(request);
-            return Ok(result);
+            if(!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+            else
+            {
+                CalculationRequest request = new CalculationRequest(dto.left,dto.right,dto.operand);
+                var result = await _calculator.CalculateAsync(request);
+                return Ok(result);
+            }
 
         }
         

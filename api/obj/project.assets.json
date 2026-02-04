@@ -503,11 +503,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Training Center 1\\Mapps\\Assignments\\Calculator\\Calculator\\api\\api.csproj",
+      "projectUniqueName": "C:\\Users\\Training Center 1\\Mapps\\Assignments\\Calculator\\calculator\\api\\api.csproj",
       "projectName": "api",
-      "projectPath": "C:\\Users\\Training Center 1\\Mapps\\Assignments\\Calculator\\Calculator\\api\\api.csproj",
+      "projectPath": "C:\\Users\\Training Center 1\\Mapps\\Assignments\\Calculator\\calculator\\api\\api.csproj",
       "packagesPath": "C:\\Users\\Training Center 1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Training Center 1\\Mapps\\Assignments\\Calculator\\Calculator\\api\\obj\\",
+      "outputPath": "C:\\Users\\Training Center 1\\Mapps\\Assignments\\Calculator\\calculator\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Training Center 1\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -522,8 +522,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Training Center 1\\Mapps\\Assignments\\Calculator\\Calculator\\CalculatorDomain\\CalculatorDomain.csproj": {
-              "projectPath": "C:\\Users\\Training Center 1\\Mapps\\Assignments\\Calculator\\Calculator\\CalculatorDomain\\CalculatorDomain.csproj"
+            "C:\\Users\\Training Center 1\\Mapps\\Assignments\\Calculator\\calculator\\CalculatorDomain\\CalculatorDomain.csproj": {
+              "projectPath": "C:\\Users\\Training Center 1\\Mapps\\Assignments\\Calculator\\calculator\\CalculatorDomain\\CalculatorDomain.csproj"
             }
           }
         }
