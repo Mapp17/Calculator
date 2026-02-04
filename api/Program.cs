@@ -17,7 +17,7 @@ builder.Services.AddSingleton<ICalculationStore>(
 
 // Add services to the container.
 builder.Services.AddControllers(); //tells ASP.NET that this application will use controllers as entry points
-builder.Services.AddSwaggerGen();
+//builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<ICalculationStore>(
     new FileCalculationStore(dataDirectory)
 );
@@ -28,12 +28,12 @@ var app = builder.Build();
 app.MapControllers(); 
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
+/*if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
+**/
 //app.UseHttpsRedirection();
 
 
